@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ShaliniR8/react-i-will.git/static/css/main.4dc632e4.chunk.css",
-    "main.js": "/ShaliniR8/react-i-will.git/static/js/main.095816e1.chunk.js",
-    "main.js.map": "/ShaliniR8/react-i-will.git/static/js/main.095816e1.chunk.js.map",
-    "runtime-main.js": "/ShaliniR8/react-i-will.git/static/js/runtime-main.11f0888b.js",
-    "runtime-main.js.map": "/ShaliniR8/react-i-will.git/static/js/runtime-main.11f0888b.js.map",
-    "static/js/2.cc726ff5.chunk.js": "/ShaliniR8/react-i-will.git/static/js/2.cc726ff5.chunk.js",
-    "static/js/2.cc726ff5.chunk.js.map": "/ShaliniR8/react-i-will.git/static/js/2.cc726ff5.chunk.js.map",
-    "index.html": "/ShaliniR8/react-i-will.git/index.html",
-    "precache-manifest.ba08c1c2921f96239a1d209cc33dffbd.js": "/ShaliniR8/react-i-will.git/precache-manifest.ba08c1c2921f96239a1d209cc33dffbd.js",
-    "service-worker.js": "/ShaliniR8/react-i-will.git/service-worker.js",
-    "static/css/main.4dc632e4.chunk.css.map": "/ShaliniR8/react-i-will.git/static/css/main.4dc632e4.chunk.css.map",
-    "static/js/2.cc726ff5.chunk.js.LICENSE.txt": "/ShaliniR8/react-i-will.git/static/js/2.cc726ff5.chunk.js.LICENSE.txt"
+    "main.css": "/react-i-will/static/css/main.4dc632e4.chunk.css",
+    "main.js": "/react-i-will/static/js/main.9fc74881.chunk.js",
+    "main.js.map": "/react-i-will/static/js/main.9fc74881.chunk.js.map",
+    "runtime-main.js": "/react-i-will/static/js/runtime-main.1af2056d.js",
+    "runtime-main.js.map": "/react-i-will/static/js/runtime-main.1af2056d.js.map",
+    "static/js/2.cc726ff5.chunk.js": "/react-i-will/static/js/2.cc726ff5.chunk.js",
+    "static/js/2.cc726ff5.chunk.js.map": "/react-i-will/static/js/2.cc726ff5.chunk.js.map",
+    "index.html": "/react-i-will/index.html",
+    "precache-manifest.130f7c8b374c40e5714ee81aa2b1bdbe.js": "/react-i-will/precache-manifest.130f7c8b374c40e5714ee81aa2b1bdbe.js",
+    "service-worker.js": "/react-i-will/service-worker.js",
+    "static/css/main.4dc632e4.chunk.css.map": "/react-i-will/static/css/main.4dc632e4.chunk.css.map",
+    "static/js/2.cc726ff5.chunk.js.LICENSE.txt": "/react-i-will/static/js/2.cc726ff5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11f0888b.js",
+    "static/js/runtime-main.1af2056d.js",
     "static/js/2.cc726ff5.chunk.js",
     "static/css/main.4dc632e4.chunk.css",
-    "static/js/main.095816e1.chunk.js"
+    "static/js/main.9fc74881.chunk.js"
   ]
 }
