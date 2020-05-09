@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-i-will/static/css/main.4dc632e4.chunk.css",
-    "main.js": "/react-i-will/static/js/main.9fc74881.chunk.js",
-    "main.js.map": "/react-i-will/static/js/main.9fc74881.chunk.js.map",
+    "main.css": "/react-i-will/static/css/main.24a610e5.chunk.css",
+    "main.js": "/react-i-will/static/js/main.baca2f0a.chunk.js",
+    "main.js.map": "/react-i-will/static/js/main.baca2f0a.chunk.js.map",
     "runtime-main.js": "/react-i-will/static/js/runtime-main.1af2056d.js",
     "runtime-main.js.map": "/react-i-will/static/js/runtime-main.1af2056d.js.map",
-    "static/js/2.cc726ff5.chunk.js": "/react-i-will/static/js/2.cc726ff5.chunk.js",
-    "static/js/2.cc726ff5.chunk.js.map": "/react-i-will/static/js/2.cc726ff5.chunk.js.map",
+    "static/js/2.fe778805.chunk.js": "/react-i-will/static/js/2.fe778805.chunk.js",
+    "static/js/2.fe778805.chunk.js.map": "/react-i-will/static/js/2.fe778805.chunk.js.map",
     "index.html": "/react-i-will/index.html",
-    "precache-manifest.130f7c8b374c40e5714ee81aa2b1bdbe.js": "/react-i-will/precache-manifest.130f7c8b374c40e5714ee81aa2b1bdbe.js",
+    "precache-manifest.b49b23c0437680ba78b14a92c3bd0f49.js": "/react-i-will/precache-manifest.b49b23c0437680ba78b14a92c3bd0f49.js",
     "service-worker.js": "/react-i-will/service-worker.js",
-    "static/css/main.4dc632e4.chunk.css.map": "/react-i-will/static/css/main.4dc632e4.chunk.css.map",
-    "static/js/2.cc726ff5.chunk.js.LICENSE.txt": "/react-i-will/static/js/2.cc726ff5.chunk.js.LICENSE.txt"
+    "static/css/main.24a610e5.chunk.css.map": "/react-i-will/static/css/main.24a610e5.chunk.css.map",
+    "static/js/2.fe778805.chunk.js.LICENSE.txt": "/react-i-will/static/js/2.fe778805.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1af2056d.js",
-    "static/js/2.cc726ff5.chunk.js",
-    "static/css/main.4dc632e4.chunk.css",
-    "static/js/main.9fc74881.chunk.js"
+    "static/js/2.fe778805.chunk.js",
+    "static/css/main.24a610e5.chunk.css",
+    "static/js/main.baca2f0a.chunk.js"
   ]
 }
